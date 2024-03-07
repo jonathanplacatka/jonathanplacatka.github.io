@@ -1,6 +1,6 @@
 
 
-  # Jonathan Placatka
+# Jonathan Placatka
 
 ## CONTACT
 ▪ placatkj@myumanitoba.ca 
