@@ -48,7 +48,7 @@ The following guide draws upon the following principles from Etter's *Modern Tec
 6. Navigate to https://username.github.io/ to view your generated website. Note that the process of deploying your website may take a few minutes to complete
 
 Once completed, your resume will look something like this:
-![](resume.gif)
+![](images/resume.gif)
 
 ## More Resources
 
