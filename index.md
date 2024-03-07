@@ -5,7 +5,7 @@
 ## CONTACT
 ▪ placatkj@myumanitoba.ca 
 
-▪ (204) 730- 3818
+▪ (204) 730-3818
 
 ## EDUCATION
 **Bachelor of Computer Science Honours (Co-op Option)** | Expected Graduation: April 2024
