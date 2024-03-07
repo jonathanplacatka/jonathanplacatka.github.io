@@ -11,6 +11,7 @@
 **Bachelor of Computer Science Honours (Co-op Option)** | Expected Graduation: April 2024
 
 ▪ University of Manitoba – GPA: 4.25
+
 ▪ Dean’s Honour Roll 2019 - 2023
 
 
