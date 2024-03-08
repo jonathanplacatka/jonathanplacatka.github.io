@@ -16,7 +16,7 @@ This guide has 2 primary purposes:
 ## Prerequisites
 
 Before following this guide, the following prerequisites are required:
-- An account on [Github.com](https://github.com/)
+- An account on [github.com](https://github.com/)
 
 - A resume formatted in Markdown
 
