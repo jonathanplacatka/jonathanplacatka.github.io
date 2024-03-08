@@ -20,7 +20,6 @@ Before following this guide, the following prerequisites are required:
 
 - A resume formatted in Markdown
 
-
 ## Instructions 
 
 ### Etter's Principles
@@ -57,9 +56,10 @@ The following guide draws upon the following principles from Etter's *Modern Tec
 3. Add the following text to the config file theme: `jekyll-theme-THEME-NAME`  (replacing `THEME-NAME` with the theme of your choice from the list of supported themes)
 4. Click "Commit changes..." in the top right corner. This will open a Commit changes pop-up window
 5. Cick "Commit changes" in the pop-up window. All other options can be left as default
-6. Navigate to https://username.github.io/ to view your generated website. Note that the process of deploying your website may take a few minutes to complete
+6. Navigate to `https://username.github.io/` to view your generated website. Note that the process of deploying your website may take a few minutes to complete
 
-Once all steps are completed, your resume should look something like the following example:
+Once all steps are completed, your resume should look something like the following example. This example uses the [hacker](https://github.com/pages-themes/hacker?tab=readme-ov-file) theme
+
 ![](resume.gif)
 
 ## More Resources
@@ -80,13 +80,13 @@ Special thanks to:
 
 - The [authors](https://github.com/pages-themes/hacker/graphs/contributors) of the Hacker theme for Github Pages 
  
-- Heejeong Kim and Kevin Tsang for helping review and edit this guide.
+- Heejeong Kim and Kevin Tsang for helping review and edit this guide
 
 ## FAQs  
 
 - **Why is Markdown better than a Word Processor**? Markdown is lightweight, making it a good choice for files that are stored on version control systems and continiously updated. Markdown is also widely used and easy to integrate with a variety of software platforms.
 
-- **Why is my resume not showing up?** Common probems include:
+- **Why is my resume not showing up?** Common problems include:
 
   - incorrect filename - double check that your resume file is correctly named index.md
 
