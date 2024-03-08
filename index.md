@@ -23,7 +23,6 @@
 ▪ Software: Git, GitHub, Postman, Microsoft SQL Server, Android Studio, Visual Studio
 
 ## WORK EXPERIENCE
-
 **Software Developer** | IQMetrix (*September 2022 - December 2022*)
 
 ▪ Implemented key features in a REST API, fulfilling the business needs of enterprise clients.
@@ -32,8 +31,6 @@
 improving observability and maintainability.
 
 ▪ Created automated API tests, load tests, and unit tests to ensure performance and reliability.
-
-
 **Application Developer** | Niche Technology  (*January 2022 - April 2022*)
 
 ▪ Created a cross-platform home screen UI, unifying the user experience between NicheRMS Windows
