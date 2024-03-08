@@ -59,7 +59,7 @@ The following guide draws upon the following principles from Etter's *Modern Tec
 5. Cick "Commit changes" in the pop-up window. All other options can be left as default
 6. Navigate to https://username.github.io/ to view your generated website. Note that the process of deploying your website may take a few minutes to complete
 
-Once completed, your resume will look something like this:
+Once all steps are completed, your resume should look something like the following example:
 ![](resume.gif)
 
 ## More Resources
@@ -88,9 +88,9 @@ Special thanks to:
 
 - **Why is my resume not showing up?** Common probems include:
 
-1. incorrect filename - double check that your resume file is correctly named index.md
+  - incorrect filename - double check that your resume file is correctly named index.md
 
-3. build/deploy process not finished - it can take a few minutes for your resume to appear. You can check the deploy status on your repository code page. An orange circle indicates that the build is in progress, while a green check indicates that the build is complete.
+  - build/deploy process not finished - it can take a few minutes for your resume to appear. You can check the deploy status on your repository code page. An orange circle indicates that the build is in progress, while a green check indicates that the build is complete.
 
 
 
