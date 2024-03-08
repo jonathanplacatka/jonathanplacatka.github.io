@@ -60,7 +60,7 @@ The following guide draws upon the following principles from Etter's *Modern Tec
 
 Once all steps are completed, your resume should look something like the following example. This example uses the [hacker](https://github.com/pages-themes/hacker?tab=readme-ov-file) theme
 
-![](resume.gif)
+![](images/resume.gif)
 
 ## More Resources
 
