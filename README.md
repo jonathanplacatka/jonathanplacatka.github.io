@@ -59,7 +59,7 @@ This step relates to Etter's principle of making a static website. Static sites 
 
 Once completed, your resume will look something like this:
 
-![](resume.gif)
+![](/resume.gif)
 
 ## More Resources
 
