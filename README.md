@@ -11,7 +11,7 @@
 ## Purpose 
 This guide has 2 primary purposes:
 1. Explain how to host a resume on Github Pages
-2. Relate the practical steps of hosting a resume to the general principles of technical writing described in Andrew Etter's book Modern Tehnical Writing
+2. Relate the practical steps of hosting a resume to the general principles of technical writing described in Andrew Etter's book *Modern Tehnical Writing*
 
 ## Prerequisites
 
