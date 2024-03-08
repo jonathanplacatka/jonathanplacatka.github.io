@@ -31,6 +31,7 @@
 improving observability and maintainability.
 
 ▪ Created automated API tests, load tests, and unit tests to ensure performance and reliability.
+
 **Application Developer** | Niche Technology  (*January 2022 - April 2022*)
 
 ▪ Created a cross-platform home screen UI, unifying the user experience between NicheRMS Windows
