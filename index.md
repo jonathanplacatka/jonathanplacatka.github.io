@@ -24,7 +24,7 @@
 
 ## WORK EXPERIENCE
 
-**Software Developer** |  IQMetrix (*September 2022 - December 2022*)
+**Software Developer** | IQMetrix (*September 2022 - December 2022*)
 
 ▪ Implemented key features in a REST API, fulfilling the business needs of enterprise clients.
 
