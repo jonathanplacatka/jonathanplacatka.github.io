@@ -1,11 +1,11 @@
 # Hosting a Resume on Github Pages
 
 ## Table of Contents
-* [Purpose](##Purpose)
-* [Prerequisites](##Prerequisites)
-* [Instructions](##Instructions)
-* [More Resources](##More-Resources)
-* [Author and Acknowledgements](##Authors-and-Acknolwedgements)
+* [Purpose](#Purpose)
+* [Prerequisites](#Prerequisites)
+* [Instructions](#Instructions)
+* [More Resources](#More-Resources)
+* [Author and Acknowledgements](#Authors-and-Acknolwedgements)
 * [FAQs](#FAQs)
 
 ## Purpose 
