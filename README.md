@@ -58,6 +58,7 @@ This step relates to Etter's principle of building a website. Unlike PDFs or oth
 This step relates to Etter's principle of making a static website. Static sites are simple, lightweight, and secure. Static site generators like Jekyll take in Markdown files and automatically generate a nicely formatted website, allowing the writer to focus on the actual content.
 
 Once completed, your resume will look something like this:
+
 ![](resume.gif)
 
 ## More Resources
